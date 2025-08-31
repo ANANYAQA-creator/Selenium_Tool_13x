@@ -13,5 +13,6 @@ public class Lab008_Options_Classes {
         WebDriver driver = new ChromeDriver(chromeOptions);
         driver.get("https://www.google.com");
         System.out.println(driver.getTitle());
+        //TEST
     }
 }
