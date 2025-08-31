@@ -1,4 +1,4 @@
-package ex_05_Selenium_Project_Tagname_Partial_linkTEXT;
+package ex04_Selenium_Projects;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
@@ -11,9 +11,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Lab004_Project3_App_VWO_Login_Details_Validation_Tagname1 {
+public class Lab004_Project3_App_VWO_Login_Details_Validation_Tagname {
 
-//TEST
+
 /* MINI PROJECT 3
 You need to basically go to app.vwo.com,
 then click on the "Start a Trial" button.
