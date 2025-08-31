@@ -32,7 +32,7 @@ public class Lab01_Project1_KATALON_HEROKUAPP {
 
         // System.out.println(driver.getTitle());
         Assert.assertEquals(driver.getTitle(), "CURA Healthcare Service");    // For Tc pass - Service
-        Assert.assertEquals(driver.getTitle(), "CURA Healthcare Services");   // For Tc failed - Services
+        Assert.assertEquals(driver.getTitle(), "CURA Healthcare Service");   // For Tc failed - Services
         // System.out.println(driver.getCurrentUrl());
         Assert.assertEquals(driver.getCurrentUrl(), "https://katalon-demo-cura.herokuapp.com/");
         System.out.println(driver.getPageSource());

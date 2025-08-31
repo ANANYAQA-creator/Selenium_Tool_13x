@@ -15,8 +15,8 @@ public class Lab006_NoHTTP {
     public void noHTTP(){
 
         WebDriver driver = new FirefoxDriver();
-        driver.get("facebook.com");
-      //  driver.get("https://facebook.com");  // HTTP is important
+       // driver.get("facebook.com");
+        driver.get("https://facebook.com");  // HTTP is important
         driver.quit();
     }
 }
