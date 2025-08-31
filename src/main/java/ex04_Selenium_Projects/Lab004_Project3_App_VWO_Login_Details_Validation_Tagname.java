@@ -104,7 +104,7 @@ LinkText, PartialLink -> a tag -> anchor Tag
         WebElement Clickbutton_Create_a_Free_Trial_Account = driver.findElement(By.tagName("button"));
         Clickbutton_Create_a_Free_Trial_Account.click();
 
-
+//TEST
         // Verify the PopUp email incorrect text
 
         /*<div class="C(--color-red) Fz(--font-size-12) Trsp(--Op) Trsdu(0.15s) Op(0) invalid-input+Op(1)
