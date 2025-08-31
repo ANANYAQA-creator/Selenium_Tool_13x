@@ -23,7 +23,7 @@ public class Lab01_Project1_KATALON_HEROKUAPP {
 
     @Description ("Verify the Text in Katalon website")
     @Link ("https://www.facebook.com")
-
+//TEST
     @Test
     public void test_verify_text_katalon() {
 
