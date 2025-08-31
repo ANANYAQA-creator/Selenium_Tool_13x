@@ -1,4 +1,4 @@
-package ex04_Selenium_Projects;
+package ex_05_Selenium_Project_Tagname_Partial_linkTEXT;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Lab004_Project3_App_VWO_Login_Details_Validation_Tagname {
+public class Lab004_Project3_App_VWO_Login_Details_Validation_Tagname1 {
 
 //TEST
 /* MINI PROJECT 3
