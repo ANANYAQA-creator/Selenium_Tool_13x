@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 public class Lab004_Project3_App_VWO_Login_Details_Validation_Tagname {
 
-// Github
+
 /* MINI PROJECT 3
 You need to basically go to app.vwo.com,
 then click on the "Start a Trial" button.

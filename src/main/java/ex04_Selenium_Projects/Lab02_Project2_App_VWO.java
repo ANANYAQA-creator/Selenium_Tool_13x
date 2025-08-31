@@ -8,10 +8,13 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Lab02_Project2_App_VWO_Locators_ID_Name {
+import java.sql.Driver;
+
+public class Lab02_Project2_App_VWO {
  /* ## **Practice Selenium Project #2**
  // Step 1 - Find the EMAIL ID and enter the [﻿admin@admin.com](mailto:admin@admin.com).
  // Step 2 - Find the Password and enter the 1234.
