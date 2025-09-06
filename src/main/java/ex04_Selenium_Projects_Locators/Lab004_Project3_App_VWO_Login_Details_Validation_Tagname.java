@@ -1,4 +1,4 @@
-package ex04_Selenium_Projects;
+package ex04_Selenium_Projects_Locators;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;

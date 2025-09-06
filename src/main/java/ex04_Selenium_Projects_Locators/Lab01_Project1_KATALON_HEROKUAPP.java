@@ -1,4 +1,4 @@
-package ex04_Selenium_Projects;
+package ex04_Selenium_Projects_Locators;
 
 /*## **Practice Selenium Project #1 **
  // Open the URL

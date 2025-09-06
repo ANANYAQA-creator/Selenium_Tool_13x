@@ -1,4 +1,4 @@
-package ex04_Selenium_Projects;
+package ex04_Selenium_Projects_Locators;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
@@ -8,11 +8,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import java.sql.Driver;
 
 public class Lab02_Project2_App_VWO {
  /* ## **Practice Selenium Project #2**
