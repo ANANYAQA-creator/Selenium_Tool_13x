@@ -1,4 +1,4 @@
-package ex_15_Selenium_Data_Driven_Testing_ApachePOI;
+package ex_15_OLD_Selenium_Data_Driven_Testing_ApachePOI;
 
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
@@ -8,7 +8,6 @@ import org.testng.annotations.DataProvider;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.InputStream;
 
 public class Util_Excel {
 
