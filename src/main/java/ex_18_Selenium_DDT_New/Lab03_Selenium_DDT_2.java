@@ -6,11 +6,11 @@ import org.testng.annotations.Test;
 public class Lab03_Selenium_DDT_2 {
 
     @Test (dataProvider = "getData")
-    public void login_vwo (String username , String password, String ER) {
+    public void login_vwo (String username , String password) {
 
       //  WebDriver driver = new ChromeDriver();
         System.out.println("Running");
-        System.out.println( username + "| | " + password + " | |" + ER);
+        System.out.println( username + "| | " + password );
         System.out.println();
 
       //  driver.get("https://app.vwo.com/#/login");
@@ -26,6 +26,6 @@ public class Lab03_Selenium_DDT_2 {
         // Convert the data in 2d format
         // return the array
 
-        return UtilExel2.getTestDatafromExcel("Sheet1");
+        return UtilExcel2.getDataFromExcel("Sheet1");
     }
 }
